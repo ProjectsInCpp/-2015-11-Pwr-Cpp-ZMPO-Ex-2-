@@ -1,0 +1,16 @@
+﻿Build started 11/15/2015 11:53:29 AM.
+     1>Project "D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex-2-\BinaryOperations\BinaryOperationsLib\BinaryOperationsLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\BinaryOperationsLib.pch" /Fo"Debug\\" /Fd"Debug\BinaryOperationsLib.pdb" /Gd /TP /analyze- /errorReport:prompt BoolValue.cpp
+         BoolValue.cpp
+     1>d:\clouds\onedrive\github\-2015-11-pwr-cpp-zmpo-ex-2-\binaryoperations\binaryoperationslib\boolvalue.cpp(21): warning C4552: '!': operator has no effect; expected operator with side-effect
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex-2-\BinaryOperations\Debug\BinaryOperationsLib.lib" /NOLOGO Debug\BoolValue.obj
+         Debug\IntValue.obj
+         Debug\stdafx.obj
+         BinaryOperationsLib.vcxproj -> D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex-2-\BinaryOperations\Debug\BinaryOperationsLib.lib
+     1>Done Building Project "D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex-2-\BinaryOperations\BinaryOperationsLib\BinaryOperationsLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
