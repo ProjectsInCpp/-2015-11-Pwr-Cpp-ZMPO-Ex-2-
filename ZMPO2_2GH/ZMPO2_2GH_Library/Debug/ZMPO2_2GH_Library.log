@@ -1,0 +1,13 @@
+﻿Build started 11/17/2015 9:56:22 AM.
+     1>Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library\ZMPO2_2GH_Library.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\ZMPO2_2GH_Library.pch" /Fo"Debug\\" /Fd"Debug\ZMPO2_2GH_Library.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Library.lib" /NOLOGO Debug\stdafx.obj
+         ZMPO2_2GH_Library.vcxproj -> D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Library.lib
+     1>Done Building Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library\ZMPO2_2GH_Library.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
