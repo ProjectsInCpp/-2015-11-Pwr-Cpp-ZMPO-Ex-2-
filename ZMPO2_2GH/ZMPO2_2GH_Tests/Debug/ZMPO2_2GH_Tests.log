@@ -1,18 +1,20 @@
-﻿Build started 11/17/2015 9:56:23 AM.
-     1>Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Tests\ZMPO2_2GH_Tests.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 11/18/2015 8:12:34 AM.
+     1>Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Tests\ZMPO2_2GH_Tests.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library" /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\ZMPO2_2GH_Tests.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library" /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ZMPO2_2GH_Tests.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittest1.cpp
-         unittest1.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library" /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ZMPO2_2GH_Tests.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /FC /errorReport:prompt TransparentTests\TestCNBCTetradeTransparentlyFromCNBC.cpp
+         TestCNBCTetradeTransparentlyFromCNBC.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.dll" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\lib" ZMPO2_2GH_Library.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
-         Debug\unittest1.obj
+         Debug\TestCNBCTetradeTransparentlyFromCNBC.obj
+         Debug\TestCHexTransparentFromCCharArray.obj
+         Debug\TestCNBCTransparentlyFromCCharArray.obj
+         Debug\TestCPositionalSignValuePullingMinusSign.obj
+         Debug\TestCPositionalSignValuePullingPlusSign.obj
+         Debug\TestCPositionalSignValueTransparentlyFromCCharArray.obj
          "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Library.lib"
-            Creating library D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.lib and object D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.exp
          ZMPO2_2GH_Tests.vcxproj -> D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Tests.dll
-     1>Done Building Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Tests\ZMPO2_2GH_Tests.vcxproj" (Rebuild target(s)).
+     1>Done Building Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Tests\ZMPO2_2GH_Tests.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.48
+Time Elapsed 00:00:00.43
