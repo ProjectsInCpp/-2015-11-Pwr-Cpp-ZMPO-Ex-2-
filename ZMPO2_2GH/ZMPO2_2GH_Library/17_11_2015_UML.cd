@@ -1,31 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="CCharArray" Collapsed="true">
-    <Position X="4.25" Y="0.75" Width="1.5" />
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CCharArray">
+    <Position X="4.5" Y="0.5" Width="4.25" />
     <TypeIdentifier>
-      <HashCode>gIQAAIAEAAAAABAAAEAQAAAAAIAAAAAAAAQAAAAAAAA=</HashCode>
+      <HashCode>gIQAAIAEAAAAABAABEAQAAAAAIAAAAAAAAQAAAAAAAA=</HashCode>
       <FileName>CharArray.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CHex" Collapsed="true">
-    <Position X="3.25" Y="3.75" Width="1.5" />
+  <Class Name="CHex">
+    <Position X="2.5" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Hex.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CNBC" Collapsed="true">
-    <Position X="5.5" Y="3.75" Width="1.5" />
+  <Class Name="CNBC">
+    <Position X="8.75" Y="7" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NBC.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CPositionalSignValue" Collapsed="true">
-    <Position X="4.25" Y="2.25" Width="1.5" />
+  <Class Name="CPositionalSignValue">
+    <Position X="5.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
       <FileName>PositionalSignValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HexaInToTetradesNBCAdapter">
+    <Position X="2" Y="10.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAACAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>HexaInToTetradesNBCAdapter.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="values" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CTetradeNBC">
+    <Position X="10.5" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TetradeNBC.h</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

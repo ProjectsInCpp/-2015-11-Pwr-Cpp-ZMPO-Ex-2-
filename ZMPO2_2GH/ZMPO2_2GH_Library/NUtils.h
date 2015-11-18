@@ -18,5 +18,6 @@ using namespace std;
 namespace NUtils
 {
 	int ToEqualsInt(char aValue0);
+	char* hexaTobinArrUnit(char aInChar);
 };
 

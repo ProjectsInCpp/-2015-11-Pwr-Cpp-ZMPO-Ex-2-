@@ -44,5 +44,8 @@
     <ClCompile Include="TransparentTests\TestCNBCTetradeTransparentlyFromCNBC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TestNUtils_HexaCharToBinarySimplyChars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

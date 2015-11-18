@@ -96,6 +96,11 @@ CCharArray::~CCharArray()
 	}
 }
 
+int CCharArray::GetLength()
+{
+	return this->length;
+}
+
 #pragma region ***************** TO EXTRACT ************************
 
 int CCharArray::filterSign(char *aInTable)

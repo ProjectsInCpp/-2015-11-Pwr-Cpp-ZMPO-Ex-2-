@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="CharArray.h" />
     <ClInclude Include="Hex.h" />
+    <ClInclude Include="HexaInToTetradesNBCAdapter.h" />
     <ClInclude Include="NBC.h" />
     <ClInclude Include="NUtils.h" />
     <ClInclude Include="PositionalSignValue.h" />
@@ -142,6 +143,7 @@
   <ItemGroup>
     <ClCompile Include="CharArray.cpp" />
     <ClCompile Include="Hex.cpp" />
+    <ClCompile Include="HexaInToTetradesNBCAdapter.cpp" />
     <ClCompile Include="NBC.cpp" />
     <ClCompile Include="NUtils.cpp" />
     <ClCompile Include="PositionalSignValue.cpp" />

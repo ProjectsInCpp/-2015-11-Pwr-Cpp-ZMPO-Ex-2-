@@ -14,6 +14,8 @@ private:
 
 	vector<char>* acceptedValues;
 	char* filterWrongCharsWithVector(int length, char *aInTable);
+protected:
+	int GetLength();
 
 public:
 	virtual char* GetVal();
