@@ -45,6 +45,9 @@
     <ClInclude Include="HexaInToTetradesNBCAdapter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Heksa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -72,6 +75,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="HexaInToTetradesNBCAdapter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Heksa.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

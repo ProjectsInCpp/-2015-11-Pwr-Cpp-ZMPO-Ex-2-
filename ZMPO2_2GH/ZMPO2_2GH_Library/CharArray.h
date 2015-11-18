@@ -8,7 +8,7 @@ class CCharArray
 private:
 	char* val = 0;
 	int length;
-	int sign;
+
 
 	int filterSign(char *aInTable);
 
@@ -16,6 +16,7 @@ private:
 	char* filterWrongCharsWithVector(int length, char *aInTable);
 protected:
 	int GetLength();
+	int sign;
 
 public:
 	virtual char* GetVal();

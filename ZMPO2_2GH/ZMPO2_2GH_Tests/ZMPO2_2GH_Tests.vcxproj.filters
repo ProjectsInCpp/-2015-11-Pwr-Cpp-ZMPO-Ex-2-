@@ -47,5 +47,14 @@
     <ClCompile Include="TestNUtils_HexaCharToBinarySimplyChars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HexInToTetradesNBCFromCHexaMinusTests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HexInToTetradesNBCFromCHexaPlusTests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PullingHexaValuesFromHexa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

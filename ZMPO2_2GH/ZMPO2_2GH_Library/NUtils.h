@@ -17,7 +17,10 @@ using namespace std;
 
 namespace NUtils
 {
+	char ToEqualsChar(int aValue0);
 	int ToEqualsInt(char aValue0);
 	char* hexaTobinArrUnit(char aInChar);
+	char BinTradeToHexaUnit(char *aInChar);
+	//char* AddZM(CHeksa* aValUp, CHeksa* aValDown);
 };
 

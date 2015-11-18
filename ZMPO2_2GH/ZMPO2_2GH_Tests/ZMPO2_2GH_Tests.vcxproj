@@ -160,6 +160,9 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HexInToTetradesNBCFromCHexaMinusTests.cpp" />
+    <ClCompile Include="HexInToTetradesNBCFromCHexaPlusTests.cpp" />
+    <ClCompile Include="PullingHexaValuesFromHexa.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

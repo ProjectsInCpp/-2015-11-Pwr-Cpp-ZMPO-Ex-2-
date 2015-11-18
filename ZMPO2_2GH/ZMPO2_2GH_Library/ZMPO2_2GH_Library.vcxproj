@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CharArray.h" />
+    <ClInclude Include="Heksa.h" />
     <ClInclude Include="Hex.h" />
     <ClInclude Include="HexaInToTetradesNBCAdapter.h" />
     <ClInclude Include="NBC.h" />
@@ -142,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CharArray.cpp" />
+    <ClCompile Include="Heksa.cpp" />
     <ClCompile Include="Hex.cpp" />
     <ClCompile Include="HexaInToTetradesNBCAdapter.cpp" />
     <ClCompile Include="NBC.cpp" />
