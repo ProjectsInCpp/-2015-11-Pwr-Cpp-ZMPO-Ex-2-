@@ -7,4 +7,9 @@ class CPositionalSignValue : public CCharArray
 {
 public:
 	CPositionalSignValue(vector<char>* acceptedValues, char length, char* val);
+<<<<<<< HEAD
 };
+=======
+};
+
+>>>>>>> origin/master

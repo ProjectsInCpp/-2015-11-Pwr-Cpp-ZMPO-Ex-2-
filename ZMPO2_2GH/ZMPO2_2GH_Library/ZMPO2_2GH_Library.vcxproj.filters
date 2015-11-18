@@ -39,6 +39,7 @@
     <ClInclude Include="PositionalSignValue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="TetradeNBC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -48,6 +49,8 @@
     <ClInclude Include="Heksa.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+=======
+>>>>>>> origin/master
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -71,6 +74,7 @@
     <ClCompile Include="PositionalSignValue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="TetradeNBC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -80,6 +84,8 @@
     <ClCompile Include="Heksa.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> origin/master
   </ItemGroup>
   <ItemGroup>
     <None Include="17_11_2015_UML.cd" />

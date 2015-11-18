@@ -5,6 +5,7 @@ int NUtils::ToEqualsInt(char aValue0)
 {
 	return int(aValue0) - 48;
 }
+<<<<<<< HEAD
 
 char* NUtils::hexaTobinArrUnit(char aInChar)
 {
@@ -309,3 +310,5 @@ char NUtils::ToEqualsChar(int aValue0)
 //
 //	return buffOut;
 //}
+=======
+>>>>>>> origin/master

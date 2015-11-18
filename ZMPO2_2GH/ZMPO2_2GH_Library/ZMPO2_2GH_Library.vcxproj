@@ -131,9 +131,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CharArray.h" />
+<<<<<<< HEAD
     <ClInclude Include="Heksa.h" />
     <ClInclude Include="Hex.h" />
     <ClInclude Include="HexaInToTetradesNBCAdapter.h" />
+=======
+    <ClInclude Include="Hex.h" />
+>>>>>>> origin/master
     <ClInclude Include="NBC.h" />
     <ClInclude Include="NUtils.h" />
     <ClInclude Include="PositionalSignValue.h" />
@@ -143,9 +147,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CharArray.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="Heksa.cpp" />
     <ClCompile Include="Hex.cpp" />
     <ClCompile Include="HexaInToTetradesNBCAdapter.cpp" />
+=======
+    <ClCompile Include="Hex.cpp" />
+>>>>>>> origin/master
     <ClCompile Include="NBC.cpp" />
     <ClCompile Include="NUtils.cpp" />
     <ClCompile Include="PositionalSignValue.cpp" />
@@ -155,7 +163,10 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="TetradeNBC.cpp" />
+=======
+>>>>>>> origin/master
     <ClCompile Include="Trash.cpp" />
   </ItemGroup>
   <ItemGroup>
