@@ -26,7 +26,19 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="unittest1.cpp">
+    <ClCompile Include="TestCPositionalSignValuePullingMinusSign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCPositionalSignValuePullingPlusSign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransparentTests\TestCHexTransparentFromCCharArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransparentTests\TestCNBCTransparentlyFromCCharArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransparentTests\TestCPositionalSignValueTransparentlyFromCCharArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
