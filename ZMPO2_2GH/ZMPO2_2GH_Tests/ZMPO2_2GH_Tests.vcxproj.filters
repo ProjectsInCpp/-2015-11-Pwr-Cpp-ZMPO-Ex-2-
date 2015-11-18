@@ -26,6 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="TestCPositionalSignValuePullingMinusSign.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -39,6 +40,21 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TransparentTests\TestCPositionalSignValueTransparentlyFromCCharArray.cpp">
+=======
+    <ClCompile Include="TestCNBCTransparently.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCHexTransparently.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCPositionalSignValueTransparently.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCPositionalSignValuePullingSign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharArrayTestsTrashAfterMakingIntoPureVirtual.cpp">
+>>>>>>> origin/master
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

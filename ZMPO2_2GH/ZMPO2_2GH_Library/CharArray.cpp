@@ -7,7 +7,10 @@ CCharArray::CCharArray(vector<char> *acceptedValues, char aLength, char *aVal)
 	this->acceptedValues = acceptedValues;
 	this->length = NUtils::ToEqualsInt(aLength) + END_SIGN_SIZE;
 	this->val = new char[this->length];
+<<<<<<< HEAD
 	this->sign = 0;
+=======
+>>>>>>> origin/master
  	this->val = filterWrongCharsWithVector(this->length, aVal);
 	aVal = NULL;
 }

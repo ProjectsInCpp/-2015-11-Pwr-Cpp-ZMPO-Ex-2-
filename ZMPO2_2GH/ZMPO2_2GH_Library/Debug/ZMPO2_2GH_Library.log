@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 ﻿Build started 11/18/2015 7:38:56 AM.
      1>Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library\ZMPO2_2GH_Library.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ZMPO2_2GH_Library.pch" /Fo"Debug\\" /Fd"Debug\ZMPO2_2GH_Library.pdb" /Gd /TP /analyze- /errorReport:prompt CharArray.cpp
          CharArray.cpp
+=======
+﻿Build started 11/17/2015 6:21:32 PM.
+     1>Project "D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\ZMPO2_2GH_Library\ZMPO2_2GH_Library.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ZMPO2_2GH_Library.pch" /Fo"Debug\\" /Fd"Debug\ZMPO2_2GH_Library.pdb" /Gd /TP /analyze- /errorReport:prompt NBC.cpp
+         NBC.cpp
+>>>>>>> origin/master
        Lib:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"D:\Clouds\OneDrive\GitHub New Folder\-2015-11-Pwr-ZMPO2_2-\ZMPO2_2GH\Debug\ZMPO2_2GH_Library.lib" /NOLOGO Debug\CharArray.obj
          Debug\Hex.obj
@@ -16,4 +24,8 @@
 
 Build succeeded.
 
+<<<<<<< HEAD
 Time Elapsed 00:00:00.62
+=======
+Time Elapsed 00:00:00.50
+>>>>>>> origin/master
