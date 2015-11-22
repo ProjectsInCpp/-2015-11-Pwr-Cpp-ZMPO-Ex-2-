@@ -1,0 +1,22 @@
+﻿Build started 11/22/2015 2:33:10 PM.
+     1>Project "D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\CHeksaAndOperatorsTests\CHeksaAndOperatorsTests.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.dll" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\lib" CHeksaAndOperatorsLibrary.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\HexInToTetradesNBCFromCHexaMinusTests.obj
+         Debug\HexInToTetradesNBCFromCHexaPlusTests.obj
+         Debug\PullingHexaValuesFromHexa.obj
+         Debug\TestCHexTransparentFromCCharArray.obj
+         Debug\TestCNBCTetradeTransparentlyFromCNBC.obj
+         Debug\TestCNBCTransparentlyFromCCharArray.obj
+         Debug\TestCPositionalSignValuePullingMinusSign.obj
+         Debug\TestCPositionalSignValuePullingPlusSign.obj
+         Debug\TestCPositionalSignValueTransparentlyFromCCharArray.obj
+         Debug\TestNUtils_HexaCharToBinarySimplyChars.obj
+         "D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsLibrary.lib"
+            Creating library D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.lib and object D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.exp
+         CHeksaAndOperatorsTests.vcxproj -> D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\Debug\CHeksaAndOperatorsTests.dll
+     1>Done Building Project "D:\Clouds\OneDrive\GitHub\-2015-11-Pwr-Cpp-ZMPO-Ex2_2-\CHeksaAndOperators\CHeksaAndOperators\CHeksaAndOperatorsTests\CHeksaAndOperatorsTests.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54
