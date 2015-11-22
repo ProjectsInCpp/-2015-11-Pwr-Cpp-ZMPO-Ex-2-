@@ -8,22 +8,15 @@ class CCharArray
 private:
 	char* val = 0;
 	int length;
-<<<<<<< HEAD
 
-=======
-	int sign;
->>>>>>> origin/master
 
 	int filterSign(char *aInTable);
 
 	vector<char>* acceptedValues;
 	char* filterWrongCharsWithVector(int length, char *aInTable);
-<<<<<<< HEAD
 protected:
 	int GetLength();
 	int sign;
-=======
->>>>>>> origin/master
 
 public:
 	virtual char* GetVal();

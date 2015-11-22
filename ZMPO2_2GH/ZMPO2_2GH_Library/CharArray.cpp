@@ -7,23 +7,11 @@ CCharArray::CCharArray(vector<char> *acceptedValues, char aLength, char *aVal)
 	this->acceptedValues = acceptedValues;
 	this->length = NUtils::ToEqualsInt(aLength) + END_SIGN_SIZE;
 	this->val = new char[this->length];
-<<<<<<< HEAD
 	this->sign = 0;
-=======
-<<<<<<< HEAD
-	this->sign = 0;
-=======
->>>>>>> origin/master
->>>>>>> origin/master
  	this->val = filterWrongCharsWithVector(this->length, aVal);
 	aVal = NULL;
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> origin/master
 char* CCharArray::filterWrongCharsWithVector(int length, char *aInTable)
 {
 	char *outTable = NULL;
@@ -108,14 +96,11 @@ CCharArray::~CCharArray()
 	}
 }
 
-<<<<<<< HEAD
 int CCharArray::GetLength()
 {
 	return this->length;
 }
 
-=======
->>>>>>> origin/master
 #pragma region ***************** TO EXTRACT ************************
 
 int CCharArray::filterSign(char *aInTable)

@@ -13,7 +13,6 @@ using namespace std;
 #define END_LINE_SIGN '\0'
 #define PROPER_SIGN_0 '0'
 #define MINUS_SIGN '-'
-<<<<<<< HEAD
 #define TETRADE_SIZE '4'
 
 namespace NUtils
@@ -23,11 +22,5 @@ namespace NUtils
 	char* hexaTobinArrUnit(char aInChar);
 	char BinTradeToHexaUnit(char *aInChar);
 	//char* AddZM(CHeksa* aValUp, CHeksa* aValDown);
-=======
-
-namespace NUtils
-{
-	int ToEqualsInt(char aValue0);
->>>>>>> origin/master
 };
 

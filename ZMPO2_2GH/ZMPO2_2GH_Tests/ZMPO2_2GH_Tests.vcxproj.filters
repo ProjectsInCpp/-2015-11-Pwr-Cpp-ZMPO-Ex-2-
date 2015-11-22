@@ -26,10 +26,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
     <ClCompile Include="TestCPositionalSignValuePullingMinusSign.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -43,7 +39,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TransparentTests\TestCPositionalSignValueTransparentlyFromCCharArray.cpp">
-<<<<<<< HEAD
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TransparentTests\TestCNBCTetradeTransparentlyFromCNBC.cpp">
@@ -59,23 +54,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PullingHexaValuesFromHexa.cpp">
-=======
-=======
-    <ClCompile Include="TestCNBCTransparently.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TestCHexTransparently.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TestCPositionalSignValueTransparently.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TestCPositionalSignValuePullingSign.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CCharArrayTestsTrashAfterMakingIntoPureVirtual.cpp">
->>>>>>> origin/master
->>>>>>> origin/master
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
